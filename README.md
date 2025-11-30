@@ -72,8 +72,8 @@ Each task contains its own `README.md` explaining:
 ---
 
 ## 📄 Final Report
-The PDF report (4–6 pages, IEEE-style) is included in:final_report/report.pdf
-
+The PDF report (4–6 pages, IEEE-style) is included in:  
+`final_report/report.pdf`
 ---
 
 ## 📝 Notes
