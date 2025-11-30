@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+
+# Data (large)
+datasets/
+*.mp4
+*.avi
+*.zip
+
+# Images too large
+*.jpg
+*.png
+
+# Models
+*.pt
+*.pth
+*.onnx
+
+# System
+.DS_Store
+Thumbs.db
